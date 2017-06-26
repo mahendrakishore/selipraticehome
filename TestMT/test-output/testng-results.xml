@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64319" started-at="2017-06-24T11:02:37Z" finished-at="2017-06-24T11:03:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64319" started-at="2017-06-24T11:02:37Z" finished-at="2017-06-24T11:03:42Z">
+      <class name="com.test1.MyAccTest">
+        <test-method status="PASS" signature="open()[pri:0, instance:com.test1.MyAccTest@3bd550]" name="open" is-config="true" duration-ms="9730" started-at="2017-06-24T16:32:38Z" finished-at="2017-06-24T16:32:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.test1.MyAccTest@3bd550]" name="test" duration-ms="52182" started-at="2017-06-24T16:32:47Z" finished-at="2017-06-24T16:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.test1.MyAccTest@3bd550]" name="close" is-config="true" duration-ms="2340" started-at="2017-06-24T16:33:39Z" finished-at="2017-06-24T16:33:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.test1.MyAccTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
